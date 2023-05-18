@@ -1,4 +1,4 @@
-# Movies-Popularity-Predictor-and-Recommendation-System
+# Movies Popularity Predictor and Recommendation System
 
 
 Welcome to my capstone Movies Popularity Predictor and Recommendation System project repository! This analysis aims to help Spectrum expand beyond being just a cable company and venture into the online streaming business.
