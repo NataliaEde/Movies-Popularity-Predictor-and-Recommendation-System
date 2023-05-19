@@ -8,14 +8,14 @@ Welcome to my capstone Movies Popularity Predictor and Recommendation System pro
 This analysis consists of four main parts: EDA, predictive regression modeling, recommendation system development using Hugging Face embedding and cosine similarity, and a deployment demo. Each part offers tools and insights to help Spectrum excel in the online streaming business.
 
 
-# Data
+### Data
 
 The data used in this analysis comprises a comprehensive collection of 4,800 movies. It includes key attributes such as genres,languages, budget, popularity, revenue, runtime, and more.
 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
-Here's a brief overview of this project's key components:
+### Here's a brief overview of this project's key components:
 
 In this project, we first analyze the distribution of movie popularity and examine the correlations between different features and popularity. This helps us understand the factors that contribute to a movie's success and audience reception. Additionally, we verify that variables are not highly correlated to avoid issues such as multicollinearity. 
 
@@ -27,3 +27,10 @@ Correlation Matrix
 
 ![image](https://github.com/NataliaEde/Movies-Popularity-Predictor-and-Recommendation-System/assets/44559346/f8742c01-7607-4a9f-a261-91d4fe92b500)
 
+We develop a predictive modeling approach to forecast movie popularity. Through machine learning techniques and feature engineering, we create models that accurately predict the popularity of movies. These models enable Spectrum to anticipate the performance of their movies and allocate resources more effectively.
+
+![models ](https://github.com/NataliaEde/Movies-Popularity-Predictor-and-Recommendation-System/assets/44559346/42d8ab59-b883-477f-b74f-d6f9055cbb58)
+
+### Conclusion
+
+We observed that certain months, such as June, July, November, and January, tend to be more popular for movie releases. Additionally, we found that specific genres, such as Adventure, Animation, and Science Fiction, have higher average popularity scores. Based on these findings, we suggest that movie production companies consider releasing movies during these popular months and explore collaborations within these high-performing genres to maximize their chances of success.
