@@ -1,4 +1,4 @@
-# Movies Popularity Predictor and Recommendation System
+#  Capstone Project: Movies Popularity Predictor and Recommendation System
 
 ![friends-laughing-while-watching-tv-at-home-2022-12-05-18-59-40-utc (1)](https://github.com/NataliaEde/Movies-Popularity-Predictor-and-Recommendation-System/assets/44559346/e175003b-46b3-4be6-9404-254f223e0b88)
 
