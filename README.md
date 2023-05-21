@@ -5,7 +5,7 @@
 
 Welcome to my capstone Movies Popularity Predictor and Recommendation System project repository! This analysis aims to help Spectrum expand beyond being just a cable company and venture into the online streaming business. We utilize predictive modeling to predict movie popularity, enabling Spectrum to gain more visibility with the movies they produce. Additionally, we build a recommendation system to keep the audience engaged and enhance their movie-watching experience.
 
-This analysis consists of four main parts: EDA, predictive regression modeling, recommendation system  using Hugging Face embedding and cosine similarity, and a deployment demo. Each part offers insights to help Spectrum excel in the online streaming business. There are four notebooks, and the first three parts also have accompanying PDF files.
+This analysis consists of four main parts: EDA, predictive regression modeling, recommendation system  using Hugging Face embedding( https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L6-v2) and cosine similarity, and a deployment demo. Each part offers insights to help Spectrum excel in the online streaming business. There are four notebooks, and the first three parts also have accompanying PDF files.
 
 
 ### Data
