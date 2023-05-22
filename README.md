@@ -29,7 +29,7 @@ Correlation Matrix
 
 We develop a predictive modeling approach to forecast movie popularity. Through machine learning techniques and feature engineering, we create models that accurately predict the popularity of movies. These models enable Spectrum to anticipate the performance of their movies and allocate resources more effectively.
 
-![models ](https://github.com/NataliaEde/Movies-Popularity-Predictor-and-Recommendation-System/assets/44559346/42d8ab59-b883-477f-b74f-d6f9055cbb58)
+![image](https://github.com/NataliaEde/Movies-Popularity-Predictor-and-Recommendation-System/assets/44559346/1f834624-0f52-4e36-986d-d1d85dc436da)
 
 ### Conclusion
 
